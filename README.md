@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is my old account on github :p
+
+To get to the new one, please see [lucshl](https://github.com/lucshl)
+
 <!--
 **skkywalker/skkywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
